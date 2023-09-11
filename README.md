@@ -25,8 +25,8 @@ Clone the project and simply run the Main.py inside the src folder.
 ## Results
 
 ```
-[nltk_data] Downloading package stopwords to C:\Users\Sanchit
-[nltk_data]     Kumar\AppData\Roaming\nltk_data...
+[nltk_data] Downloading package stopwords to C:\Users\Urooj
+[nltk_data]     Urooj\AppData\Roaming\nltk_data...
 [nltk_data]   Package stopwords is already up-to-date!
 Records Count:  6335
 Column Count :  4
